@@ -7,7 +7,7 @@ Supported
 ============
 Linux and Mac
 
-Installation
+Usage
 ============
 
 1. Open and edit your file:
