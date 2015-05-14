@@ -20,4 +20,4 @@ Usage
   
   PS1="\[\033[1;34m\]\w\[\033[1;31m\]\$(git_prompt_info)\[\033[0m\] \$(~/.rvm/bin/rvm-prompt) "
 
-3. Save: asc and :wq
+3. Save: ESC and :wq
